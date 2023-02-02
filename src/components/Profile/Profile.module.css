@@ -1,0 +1,14 @@
+
+.content{
+
+  grid-area:  c;
+  background-color: purple;
+ }
+
+
+ .item {
+  color: blue;
+ }
+ .photo {
+  width: 100px;
+ }
